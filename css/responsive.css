@@ -1,0 +1,35 @@
+/* Smartphones (600px para baixo) */ 
+@media only screen and (max-width: 600px) {
+    .card{
+        margin: 70px 0 50px 0;
+        width: 310px;
+        height: 500px;
+    }
+
+    .text h1{
+        font-size: 22px;
+    }
+
+    .text p{
+        font-size: 15px;
+        padding: 0 13px 0 13px;
+    }
+
+    .footer-attribution{
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-height: 620px){
+    .footer-attribution{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 601px){
+    @media only screen and (max-height: 750px){
+        .footer-attribution{
+            display: none;
+        }
+    }
+}
