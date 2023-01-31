@@ -15,20 +15,20 @@
         padding: 0 13px 0 13px;
     }
 
-    .footer-attribution{
+    .attribution{
         font-size: 13px;
     }
 }
 
 @media only screen and (max-height: 620px){
-    .footer-attribution{
+    .attribution{
         display: none;
     }
 }
 
 @media only screen and (min-width: 601px){
     @media only screen and (max-height: 750px){
-        .footer-attribution{
+        .attribution{
             display: none;
         }
     }
