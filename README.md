@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-card-webpage-html-and-css-with-basic-responsive-solution-ufnz-iE9qn)
 - Live Site URL: (https://daniel-sdias.github.io/exercicio-html-css-qr-code-card/)
 
 
@@ -54,4 +54,4 @@ I will keep learning about HTML and CSS to improve my coding skills.
 
 ## Acknowledgments
 
-Thank you to Atif Iqbal [@atif-dev](https://www.frontendmentor.io/profile/atif-dev) for the feedback about my solution and for the tips fixxing issues in the project.
+Thanks to Atif Iqbal [@atif-dev](https://www.frontendmentor.io/profile/atif-dev) for the feedback about my solution and for the tips fixxing issues in the project.
